@@ -17,6 +17,7 @@ export function App() {
 
   return (
     <>
+    <Container>Ciao mondo!</Container>
     <DateLocale>
       <DateCalendar></DateCalendar>
     </DateLocale>
